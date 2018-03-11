@@ -1,0 +1,3 @@
+Jesus;Roldan;;Rute;roldy;1234;blue;red;Courier New;14
+Juan;Almidon;Tetris;Rute;juanito;1234;green;blue;Comic Sans;16
+Eustaquioº;Jimenez;Cordoba;Cordoba;eus;1234;red;green;Times New Roman;12
